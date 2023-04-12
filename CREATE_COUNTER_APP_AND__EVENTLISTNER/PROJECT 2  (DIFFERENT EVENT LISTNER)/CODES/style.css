@@ -1,0 +1,25 @@
+body{
+    height: 10vh;
+    display: flex;
+    justify-content: centre;
+    align-items: centre;
+}
+button {
+    padding: 16px;
+    font-size: 20px;
+    border-radius: 25px;
+    background-color: #808080;
+}
+/* 
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  button {
+    padding: 16px;
+    font-size: 20px;
+    border-radius: 25px;
+    background-color: #808080;
+  } */
